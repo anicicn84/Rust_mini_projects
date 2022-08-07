@@ -4,7 +4,7 @@ FlappyDragon/target/.rustc_info.json
 FlappyDragon/target/debug/.cargo-lock
 FlappyDragon/target/debug/*
 FlappyDragon/target/rls/*
-progress/Cargo.lock
-progress/target/.rustc_info.json
-progress/target/CACHEDIR.TAG
-progress/target/debug/**
+traits_progress_bar/Cargo.lock
+traits_progress_bar/target/.rustc_info.json
+traits_progress_bar/target/CACHEDIR.TAG
+traits_progress_bar/target/debug/**
