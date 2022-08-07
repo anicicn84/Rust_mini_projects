@@ -1,0 +1,10 @@
+
+FlappyDragon/Cargo.lock
+FlappyDragon/target/.rustc_info.json
+FlappyDragon/target/debug/.cargo-lock
+FlappyDragon/target/debug/*
+FlappyDragon/target/rls/*
+progress/Cargo.lock
+progress/target/.rustc_info.json
+progress/target/CACHEDIR.TAG
+progress/target/debug/**
